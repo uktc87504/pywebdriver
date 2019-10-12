@@ -46,6 +46,8 @@ The aim of this sub project is to provide WebServices and Web Page to simulate t
     * Bixolon BCD-1100
     * Bixolon BCD-1000
   * **Scale**:
+    * Elicom EVL+
+    * Elicom S200
     * TODO : planned by GRAP (Any help welcome);
   * **Barcode Reader**, **Cash Box** :
     * Not Planned
